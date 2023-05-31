@@ -15,6 +15,6 @@ The ongoing development of this project aims to offer a comprehensive guide for 
   - From my perspective, the lower difficulty levels tend to overlap. Hence, assigning a difficulty level to a problem requires the expertise of an experienced coach or feedback from participants with the desired competitive programming experience.
   - Problem selection (especially topic-specific problems) should aim to cover a wide range of experience points, encompassing various techniques, tricks, implementation details, and so on. This approach may result in excluding easier problems that are not suitable for initial stages, but that is acceptable.
   - Editing plan description, style, content, topic resources, problems or any other thing related.
-  - 
+ 
 * You can contribute to this in any way you want (issues, pull requests or [contact me](https://codeforces.com/profile/Rokba) to discuss it.
 
