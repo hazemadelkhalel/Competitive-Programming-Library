@@ -1,7 +1,7 @@
 # Levels Description
 These levels will help you improve in competitive programming, and they do not require you to have prior knowledge or experience in problem solving. The plan is currently under development and being tested by the FCAI ACM community.
 
-There are 4 different levels:
+There are 4 different levels and the requirements for them:
 * [Level 0](https://github.com/hazemadelkhalel/Competitive-Programming-Library/blob/main/Road%20Map/Level%200.md): beginner with no prior knowledge or experience in competitive programming. The target of this plan is to be able to solve CF-div2 A(B) expected to be close to the pupil and can reach it.
 
 * [Level 1](https://github.com/hazemadelkhalel/Competitive-Programming-Library/blob/main/Road%20Map/Level%201.md): has basic knowledge of most of the topics and good implementation skills. The target of this plan is to be able to solve CF-div2 AB(C) expected to be a stable pupil and can be a specialist.
