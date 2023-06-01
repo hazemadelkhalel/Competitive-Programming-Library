@@ -9,6 +9,7 @@ Target: be able to solve CF-div2 ABC(D)
 * Floyd-Warshall (All-pairs shortest paths) - Bellman
 * DSU - MST (Kruskal) 
 * Binray Indexed Tree
+* Backtracking
 * Introduction to Dynamic Programming (Recursive)
 * Introduction to Dynamic Programming (Iterative)
 
