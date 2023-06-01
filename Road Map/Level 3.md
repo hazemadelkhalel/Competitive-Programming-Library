@@ -32,7 +32,7 @@ LCA | [Errichto](https://www.youtube.com/watch?v=dOAxrhAUIhA&t=758s) | [LCA with
 Euler's Graph | [WilliamFiset](https://www.youtube.com/watch?v=8MpoO2zA2l4) | [Euler Path](https://cp-algorithms.com/graph/euler_path.html)
 DP | --- | [Digit DP](https://codeforces.com/blog/entry/53960) , [Tricks](https://codeforces.com/blog/entry/47764) , [Matrix Power](https://codeforces.com/blog/entry/67776), [SOS DP](https://codeforces.com/blog/entry/45223) , [Some Techniques](https://codeforces.com/blog/entry/43256) , [Usaco](https://usaco.guide/gold/intro-dp?lang=cpp)
 Segment tree | [EDU ITMO codeforces](https://codeforces.com/edu/course/2/lesson/4) | [Segment Tree](https://cp-algorithms.com/data_structures/segment_tree.html)
-Segment tree with lazy propagation| [EDU ITMO 2 Codforces](https://codeforces.com/edu/course/2/lesson/5) | [Codeforces's Blog](https://codeforces.com/blog/entry/18051)
+Segment tree with lazy propagation| [EDU ITMO 2 Codeforces](https://codeforces.com/edu/course/2/lesson/5) | [Codeforces's Blog](https://codeforces.com/blog/entry/18051)
 KMP algorithm | [Abdul Bary](https://www.youtube.com/watch?v=V5-7GzOfADQ) | [KMP](https://cp-algorithms.com/string/prefix-function.html)
 Z algorithm | --- | [Z function](https://cp-algorithms.com/string/z-function.html)
 Rabin-Karp | [Abdul Bary](https://www.youtube.com/watch?v=qQ8vS2btsxI&t=4s) | [Rabin Karb](https://cp-algorithms.com/string/rabin-karp.html) 
