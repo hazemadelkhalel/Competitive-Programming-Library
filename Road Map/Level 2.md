@@ -25,7 +25,7 @@ To use this plan:
 
    - [Competitive Programming 3](https://drive.google.com/file/d/145iYn20prtNwKYLbN6GpGNlzAtCQuSG_/view?usp=sharing)
    - [Usaco Guide](https://usaco.guide/)
-   - Rokba's Park Vjudge
+   - Rokba's Park [Vjudge](https://vjudge.net/group/rokba)
    - Soon I will upload some playlists for each point
    
 * For extra problems check this [Problems Sheet](https://docs.google.com/spreadsheets/d/1blSbPr1pAFZSzlAi2IVdTeytz2yO7Ejx9SeQWOSxY0w/edit#gid=1542041463)
