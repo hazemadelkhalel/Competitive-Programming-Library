@@ -10,7 +10,7 @@ Target: be able to solve CF-div2 ABC(D)
 * DSU - MST (Kruskal) 
 * Number Theory (Factorization)
 * Combinatorics
-* Binray Indexed Tree
+* Binary Indexed Tree
 * Backtracking
 * Introduction to Dynamic Programming (Recursive)
 * Introduction to Dynamic Programming (Iterative)
@@ -36,7 +36,7 @@ DSU | [ITMO](https://codeforces.com/edu/course/2/lesson/7) | [Codforces Blog](ht
 MST | [Abdul Bary](https://www.youtube.com/watch?v=4ZlRH0eK-qQ) | [Kruskal](https://cp-algorithms.com/graph/mst_kruskal.html)
 Number Theory | [Dardy's Session](https://www.youtube.com/watch?v=-3kk-Q2HJeU) | [Factorization in Log(N)](https://codeforces.com/blog/entry/7262)
 Combinatorics | --- | [Combinatorics](https://usaco.guide/gold/combo?lang=cpp)|
-Binray Indexed Tree | --- | [Codforces Blog](https://codeforces.com/blog/entry/57292) , [CP algorithmms](https://cp-algorithms.com/data_structures/fenwick.html)
+Binary Indexed Tree | --- | [Codforces Blog](https://codeforces.com/blog/entry/57292) , [CP algorithmms](https://cp-algorithms.com/data_structures/fenwick.html)
 Intro DP | [Errichto](https://www.youtube.com/watch?v=YBSt1jYwVfU&t=4s) | [Everything on DP](https://codeforces.com/blog/entry/67679) , [Usaco](https://usaco.guide/gold/intro-dp?lang=cpp)
 
 
@@ -46,7 +46,7 @@ Intro DP | [Errichto](https://www.youtube.com/watch?v=YBSt1jYwVfU&t=4s) | [Every
    - [Competitive Programming 3](https://drive.google.com/file/d/145iYn20prtNwKYLbN6GpGNlzAtCQuSG_/view?usp=sharing)
    - [Usaco Guide](https://usaco.guide/)
    - [CP Algorithms](https://cp-algorithms.com/)
-   - [Kactle Templates](https://github.com/kth-competitive-programming/kactl)
+   - [Kactl Templates](https://github.com/kth-competitive-programming/kactl)
    - Soon I will upload some playlists for each point
    
 * Solutions & Tutorials:
