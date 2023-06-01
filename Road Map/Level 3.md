@@ -12,7 +12,7 @@ Target: be able to solve CF-div2 ABCD(E)
 * Segment tree with lazy propagation
 * Trie 
 * KMP algorithm - Z algorithm
-* Rabin Karb
+* Rabin-Karp algorithm
 
 ## Timeline
 To use this plan:
@@ -43,7 +43,7 @@ Rabin-Karp | [Abdul Bary](https://www.youtube.com/watch?v=qQ8vS2btsxI&t=4s) | [R
    - [Competitive Programming 3](https://drive.google.com/file/d/145iYn20prtNwKYLbN6GpGNlzAtCQuSG_/view?usp=sharing)
    - [Usaco Guide](https://usaco.guide/)
    - [CP Algorithms](https://cp-algorithms.com/)
-   - [Kactle Templates](https://github.com/kth-competitive-programming/kactl)
+   - [Kactl Templates](https://github.com/kth-competitive-programming/kactl)
    - Soon I will upload some playlists for each point
    
 * Solutions & Tutorials:

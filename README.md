@@ -1,5 +1,5 @@
 # Competitive Programming Library
-some materials for competitve programming 
+Some materials for competitve programming 
 
 ### Content
 * [Road map](https://github.com/hazemadelkhalel/Competitive-Programming-Library/blob/main/Road%20Map/README.md): Practice plans for different levels. 
