@@ -13,7 +13,6 @@ Target: be able to solve CF-div2 AB(C)
   - Check Prime
   - Seieve Algorithm
   - Get Divisors
-* Number Theory II
   - Fast Power
   - Modular Arithemetic
   - GCD & LCM
