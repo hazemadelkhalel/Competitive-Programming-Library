@@ -1,5 +1,6 @@
 # Level 1
 Duration: 25 rokba days.
+
 Target: be able to solve CF-div2 AB(C)
 
 ### Content
