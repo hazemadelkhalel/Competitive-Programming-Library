@@ -24,7 +24,7 @@ To use this plan:
 * Rokba's Park [Vjudge Sheets](https://vjudge.net/group/rokba)
 * For extra problems check this [Problems Sheet](https://docs.google.com/spreadsheets/d/1blSbPr1pAFZSzlAi2IVdTeytz2yO7Ejx9SeQWOSxY0w/edit#gid=1542041463)
 
-# Materials
+## Materials
 Topic | Videos | Blogs | Templates
 --- | --- | --- | ---
 Sparse Table | [Errichto](https://www.youtube.com/watch?v=0jWeUdxrGm4&t=3s) | [Sparse Table](https://cp-algorithms.com/data_structures/sparse-table.html) | 
