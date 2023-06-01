@@ -6,6 +6,7 @@ Target: be able to solve CF-div2 ABCD(E)
 ### Content
 * Sparse Table
 * LCA
+* Euler's Graph
 * DP (ranges - bitmask - digits ... etc)
 * Segment tree
 * Segment tree with lazy propagation
