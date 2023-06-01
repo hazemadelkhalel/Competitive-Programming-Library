@@ -11,7 +11,7 @@ Target: be able to solve CF-div2 AB(C)
 * Two Pointers + Binary Search
 * Number Theory
   - Check Prime
-  - Seieve Algorithm
+  - Sieve Algorithm
   - Get Divisors
   - Fast Power
   - Modular Arithemetic
