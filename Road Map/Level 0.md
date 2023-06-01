@@ -25,7 +25,7 @@ To use this plan:
 * Rokba's Park [Vjudge Sheets](https://vjudge.net/group/rokba)
 * For extra problems check this [Problems Sheet](https://docs.google.com/spreadsheets/d/1blSbPr1pAFZSzlAi2IVdTeytz2yO7Ejx9SeQWOSxY0w/edit#gid=1542041463)
 
-# Materials
+## Materials
 Topic | Videos | Blogs | Templates
 --- | --- | --- | ---
 Introduction to Programming | [Errichto](https://www.youtube.com/watch?v=xAeiXy8-9Y8&t=4s) | [Intro to Competitive Programming](https://usaco.guide/general/intro-cp?lang=cpp) | 
