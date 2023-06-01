@@ -18,7 +18,7 @@ Target: be able to solve CF-div2 A(B)
 ## Timeline
 To use this plan:
  - For coaches: each point of the content takes a week (1 session for teaching + 1 session for upsolving the sheat)
- - For trainees: try to master each point in at most (5-7) days (learning + finishing the sheet)
+ - For trainees: try to master each point in at most (3-5) days (learning + finishing the sheet)
 
 ## Notes
 * Resources:
