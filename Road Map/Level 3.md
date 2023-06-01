@@ -30,7 +30,7 @@ Topic | Videos | Blogs | Templates
 Sparse Table | [Errichto](https://www.youtube.com/watch?v=0jWeUdxrGm4&t=3s) | [Sparse Table](https://cp-algorithms.com/data_structures/sparse-table.html) | 
 LCA | [Errichto](https://www.youtube.com/watch?v=dOAxrhAUIhA&t=758s) | [LCA with Binray Lifting](https://cp-algorithms.com/graph/lca_binary_lifting.html) | 
 Euler's Graph | [WilliamFiset](https://www.youtube.com/watch?v=8MpoO2zA2l4) | [Euler Path](https://cp-algorithms.com/graph/euler_path.html)
-DP | --- | [Digit DP](https://codeforces.com/blog/entry/53960), [Tricks](https://codeforces.com/blog/entry/47764), [Matrix Power](https://codeforces.com/blog/entry/67776), [SOS DP](https://codeforces.com/blog/entry/45223), [Some Techniques](https://codeforces.com/blog/entry/43256), [Usaco](https://usaco.guide/gold/intro-dp?lang=cpp)
+DP | --- | [Digit DP](https://codeforces.com/blog/entry/53960) , [Tricks](https://codeforces.com/blog/entry/47764) , [Matrix Power](https://codeforces.com/blog/entry/67776), [SOS DP](https://codeforces.com/blog/entry/45223) , [Some Techniques](https://codeforces.com/blog/entry/43256) , [Usaco](https://usaco.guide/gold/intro-dp?lang=cpp)
 Segment tree | [EDU ITMO codeforces](https://codeforces.com/edu/course/2/lesson/4) | [Segment Tree](https://cp-algorithms.com/data_structures/segment_tree.html)
 Segment tree with lazy propagation| [EDU ITMO 2 Codforces](https://codeforces.com/edu/course/2/lesson/5) | [Codeforces's Blog](https://codeforces.com/blog/entry/18051)
 KMP algorithm | [Abdul Bary](https://www.youtube.com/watch?v=V5-7GzOfADQ) | [KMP](https://cp-algorithms.com/string/prefix-function.html)
