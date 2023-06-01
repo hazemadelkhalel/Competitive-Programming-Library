@@ -12,7 +12,7 @@ Target: be able to solve CF-div2 ABCD(E)
 * Segment tree with lazy propagation
 * Trie 
 * KMP algorithm - Z algorithm
-* Rabin Karb
+* Rabin-Karb algorithm
 
 ## Timeline
 To use this plan:
