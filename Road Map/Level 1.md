@@ -9,7 +9,7 @@ Target: be able to solve CF-div2 AB(C)
 * Prefix-Suffix + Sliding Window
 * Sorting
 * Two Pointers + Binary Search
-* Number Theory I
+* Number Theory
   - Check Prime
   - Seieve Algorithm
   - Get Divisors
