@@ -40,6 +40,7 @@ STLs | [Adel Nesem in Arabic](https://www.youtube.com/watch?v=4hhz69S15wU&list=P
 
 ## Notes
 * Resources:
+
    - [Competitive Programming 3](https://drive.google.com/file/d/145iYn20prtNwKYLbN6GpGNlzAtCQuSG_/view?usp=sharing)
    - [Usaco Guide](https://usaco.guide/)
    - [CP Algorithms](https://cp-algorithms.com/)
