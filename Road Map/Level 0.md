@@ -1,5 +1,6 @@
 # Level 0
 Duration: 20 rokba days.
+
 Target: be able to solve CF-div2 A(B)
 
 ### Content
