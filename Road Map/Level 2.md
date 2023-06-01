@@ -8,7 +8,7 @@ Target: be able to solve CF-div2 ABC(D)
 * Shortest Path (0-1 BFS, Dijkstra) 
 * Floyd-Warshall (All-pairs shortest paths) - Bellman
 * DSU - MST (Kruskal) 
-* Sparse table
+* BIT
 * Introduction to Dynamic Programming (Recursive)
 * Introduction to Dynamic Programming (Iterative)
 
