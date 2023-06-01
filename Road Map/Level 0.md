@@ -32,4 +32,3 @@ To use this plan:
 * Solutions & Tutorials:
   - For atcoder and CF problems. Authors offer a tutorial for each problem also you can see others accepted submissions.
   - For UVA problems, you can google it
-  - For atcoder problems,  authors offer a tutorial for each problem also you can see others accepted submissions.
