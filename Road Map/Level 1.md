@@ -14,7 +14,7 @@ Target: be able to solve CF-div2 AB(C)
   - Sieve Algorithm
   - Get Divisors
   - Fast Power
-  - Modular Arithemetic
+  - Modular Arithmetic
   - GCD & LCM
 * Basic counting
   - nCr & nPr
