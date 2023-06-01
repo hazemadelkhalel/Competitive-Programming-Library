@@ -36,7 +36,7 @@ DSU | [ITMO](https://codeforces.com/edu/course/2/lesson/7) | [Codforces Blog](ht
 MST | [Abdul Bary](https://www.youtube.com/watch?v=4ZlRH0eK-qQ) | [Kruskal](https://cp-algorithms.com/graph/mst_kruskal.html)
 Number Theory | [Dardy's Session](https://www.youtube.com/watch?v=-3kk-Q2HJeU) | [Factorization in Log(N)](https://codeforces.com/blog/entry/7262)
 Combinatorics | --- | [Combinatorics](https://usaco.guide/gold/combo?lang=cpp)|
-Binray Indexed Tree | --- | [Codeforces'blog](https://codeforces.com/blog/entry/57292), [CP algorithmms](https://cp-algorithms.com/data_structures/fenwick.html)
+Binray Indexed Tree | --- | [Codforces Blog](https://codeforces.com/blog/entry/57292), [CP algorithmms](https://cp-algorithms.com/data_structures/fenwick.html)
 Intro DP | [Errichto](https://www.youtube.com/watch?v=YBSt1jYwVfU&t=4s) | [Everything on DP](https://codeforces.com/blog/entry/67679), [Usaco](https://usaco.guide/gold/intro-dp?lang=cpp)
 
 
