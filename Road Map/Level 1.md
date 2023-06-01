@@ -39,7 +39,7 @@ Prefix-Suffix | [Mike](https://www.youtube.com/watch?v=7pJo_rM0z_s) | [Prefix Su
 Sliding Window | --- | [Sliding Window](https://usaco.guide/gold/sliding-window?lang=cpp) |
 Sorting | [Playlist](https://www.youtube.com/watch?v=p__ETf2CKY4&list=PLjuNEWpkTZauDAstircLx0B-tsERPsjtT) | [Sorting](https://usaco.guide/bronze/intro-sorting?lang=cpp) |
 Two Pointers | [Two Pointers](https://www.youtube.com/watch?v=BCLfxQja9dI&t=267s) | [Two Pointers Usaco](https://usaco.guide/silver/two-pointers) , [ITMO](https://codeforces.com/edu/course/2/lesson/9) |
-Binary Search | [Errichto](https://www.youtube.com/watch?v=GU7DpgHINWQ&t=40s) | [ITMO](https://codeforces.com/edu/course/2/lesson/9) , [Usaco](https://usaco.guide/silver/binary-search?lang=cpp) |
+Binary Search | [Errichto](https://www.youtube.com/watch?v=GU7DpgHINWQ&t=40s) | [ITMO](https://codeforces.com/edu/course/2/lesson/6) , [Usaco](https://usaco.guide/silver/binary-search?lang=cpp) |
 Number Theory | [Dardy's Session](https://www.youtube.com/watch?v=-3kk-Q2HJeU) | [Divisibility](https://usaco.guide/gold/divisibility?lang=cpp) |
 Basic counting | --- | [Combinatorics](https://usaco.guide/gold/combo?lang=cpp)|
 
