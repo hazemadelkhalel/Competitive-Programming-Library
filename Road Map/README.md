@@ -10,8 +10,6 @@ There are 5 different levels:
 
 * [Level 3](https://github.com/hazemadelkhalel/Competitive-Programming-Library/blob/main/Road%20Map/Level%203.md): good in graphs and know most of graph traversal algorithms and learn some techniques such as basic dynamic programming (Knapsack - LCS - Coin change - LIS). The target of this plan is to be able to solve CF-div2 ABCD(E) expected stable expert.
 
-* [Level 4](https://github.com/hazemadelkhalel/Competitive-Programming-Library/blob/main/Road%20Map/Level%204.md): has good knowledge and has a very good ad-hoc to solve CF-div2 ABC in 40 minutes or less. The target of this plan is to be able to solve CF-div2 ABCD(E) expected stable expert and reach candidate master.
-
 Let's define something to measure how much time we trained and benefited. Rokba's day is a day at which you spending 14 hours in training and sleeping/eating/wasting time in 10 hours :). While this may not be practical for our everyday lives, it is important to establish a specific type of day that fosters a sense of progress. This definition of a day will be utilized in the plan.
 
 Let's make an equation
