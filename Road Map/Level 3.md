@@ -46,8 +46,6 @@ Rabin-Karp | [Abdul Bary](https://www.youtube.com/watch?v=qQ8vS2btsxI&t=4s) | [R
    - [Kactle Templates](https://github.com/kth-competitive-programming/kactl)
    - Soon I will upload some playlists for each point
    
-* For extra problems check this [Problems Sheet](https://docs.google.com/spreadsheets/d/1blSbPr1pAFZSzlAi2IVdTeytz2yO7Ejx9SeQWOSxY0w/edit#gid=1542041463)
-
 * Solutions & Tutorials:
   - For atcoder and CF problems. Authors offer a tutorial for each problem also you can see others accepted submissions.
   - For UVA problems, you can google it
