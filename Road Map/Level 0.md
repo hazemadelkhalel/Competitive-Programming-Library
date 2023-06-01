@@ -36,7 +36,7 @@ Strings | [Strings](https://www.youtube.com/watch?v=-t07hCkdHjI) | [W3School Str
 Functions| [Intro to Functions](https://www.youtube.com/watch?v=VZYMp7SY0W4) | [W3School Functions](https://www.w3schools.com/cpp/cpp_functions.asp)
 Recursion | [Buckys Recursion](https://www.youtube.com/watch?v=4agL-MQq05E) | [W3School Recursion](https://www.w3schools.com/cpp/cpp_functions_recursion.asp)
 Complexity Analysis | [Time Complexity and Big O Notation](https://www.youtube.com/watch?v=QnRx6V8YQy0) | [Usaco Time Complexity](https://usaco.guide/bronze/time-comp?lang=cpp)
-STLs | [Adel Nesem in Arabic](https://www.youtube.com/watch?v=4hhz69S15wU&list=PLCInYL3l2AainAE4Xq2kdNGDfG0bys2xp) and [In English](https://www.youtube.com/watch?v=LyGlTmaWEPs&list=PLk6CEY9XxSIA-xo3HRYC3M0Aitzdut7AA) | [Intro to Data Structures](https://usaco.guide/bronze/intro-ds?lang=cpp) and [Sets and Maps](https://usaco.guide/bronze/intro-sets?lang=cpp)
+STLs | [Adel Nesem in Arabic](https://www.youtube.com/watch?v=4hhz69S15wU&list=PLCInYL3l2AainAE4Xq2kdNGDfG0bys2xp) , [In English](https://www.youtube.com/watch?v=LyGlTmaWEPs&list=PLk6CEY9XxSIA-xo3HRYC3M0Aitzdut7AA) | [Intro to Data Structures](https://usaco.guide/bronze/intro-ds?lang=cpp) , [Sets and Maps](https://usaco.guide/bronze/intro-sets?lang=cpp)
 
 ## Notes
 * Resources:
