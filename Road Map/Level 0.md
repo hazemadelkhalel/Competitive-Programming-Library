@@ -44,7 +44,7 @@ STLs | [Adel Nesem in Arabic](https://www.youtube.com/watch?v=4hhz69S15wU&list=P
    - [Competitive Programming 3](https://drive.google.com/file/d/145iYn20prtNwKYLbN6GpGNlzAtCQuSG_/view?usp=sharing)
    - [Usaco Guide](https://usaco.guide/)
    - [CP Algorithms](https://cp-algorithms.com/)
-   - [Kactle Templates](https://github.com/kth-competitive-programming/kactl)
+   - [Kactl Templates](https://github.com/kth-competitive-programming/kactl)
    - Soon I will upload some playlists for each point
    
 * Solutions & Tutorials:
