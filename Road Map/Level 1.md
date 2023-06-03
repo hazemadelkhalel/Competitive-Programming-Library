@@ -9,6 +9,7 @@ Target: be able to solve CF-div2 AB(C)
 * Prefix-Suffix + Sliding Window
 * Sorting
 * Two Pointers + Binary Search
+* Bitmasks & Complete Search with Bitmasks
 * Number Theory
   - Check Prime
   - Sieve Algorithm
@@ -41,6 +42,7 @@ Sorting | [Playlist](https://www.youtube.com/watch?v=p__ETf2CKY4&list=PLjuNEWpkT
 Two Pointers | [Two Pointers](https://www.youtube.com/watch?v=BCLfxQja9dI&t=267s) | [Two Pointers Usaco](https://usaco.guide/silver/two-pointers) , [ITMO](https://codeforces.com/edu/course/2/lesson/9) |
 Binary Search | [Errichto](https://www.youtube.com/watch?v=GU7DpgHINWQ&t=40s) | [ITMO](https://codeforces.com/edu/course/2/lesson/6) , [Usaco](https://usaco.guide/silver/binary-search?lang=cpp) |
 Number Theory | [Dardy's Session](https://www.youtube.com/watch?v=-3kk-Q2HJeU) | [Divisibility](https://usaco.guide/gold/divisibility?lang=cpp) |
+Bitmasks | --- | [BITMASKS FOR BEGINNERS](https://codeforces.com/blog/entry/18169) , [Bitmasking](https://codeforces.com/blog/entry/17973) , [CP Algorithm](https://cp-algorithms.com/algebra/all-submasks.html) | 
 Basic counting | --- | [Combinatorics](https://usaco.guide/gold/combo?lang=cpp)|
 
 ## Notes
