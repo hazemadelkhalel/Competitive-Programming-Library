@@ -5,11 +5,11 @@ Target: be able to solve CF-div2 AB(C)
 
 ### Content
 * Brute Force
-* Greedy
+* Constructive algorithms + Greedy
 * Prefix-Suffix + Sliding Window
 * Sorting
 * Two Pointers + Binary Search
-* Bitmasks & Complete Search with Bitmasks
+* Basics Bitmasks
 * Number Theory
   - Check Prime
   - Sieve Algorithm
