@@ -4,15 +4,24 @@ Duration: 30 rokba days or more.
 Target: be able to solve CF-div2 ABCD(E)
 
 ### Content
-* Sparse Table
+* SCC + Tarjan
 * LCA
 * Euler's Graph
-* DP (ranges - bitmask - digits ... etc)
+* Mobius + Linear Diophantine Equations
+* DP (optimizations - ranges - bitmask - digits ... etc.)
 * Segment tree
 * Segment tree with lazy propagation
+* Matrix Exponentiation
 * Trie 
 * KMP algorithm - Z algorithm
-* Rabin-Karp algorithm
+* Hashing Rabin-Karp algorithm
+* Suffix Array
+* Game Theory
+* Small to Large Trick
+* Mo Algorithm
+* Convex Hull Trick
+* Matching Kuhn + Hopcroft
+* Xor Basis
 
 ## Timeline
 To use this plan:
