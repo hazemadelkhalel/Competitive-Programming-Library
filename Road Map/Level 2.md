@@ -14,6 +14,8 @@ Target: be able to solve CF-div2 ABC(D)
 * Backtracking
 * Introduction to Dynamic Programming (Recursive)
 * Introduction to Dynamic Programming (Iterative)
+* Geometry
+* Probability
 
 ## Timeline
 To use this plan:
