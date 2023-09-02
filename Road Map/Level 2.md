@@ -10,8 +10,10 @@ Target: be able to solve CF-div2 ABC(D)
 * DSU - MST (Kruskal) 
 * Number Theory (Factorization)
 * Combinatorics
-* Binary Indexed Tree
-* Backtracking
+* Binary Indexed Tree (BIT)
+* Sparse Table
+* Divide and Conquer
+* Complete search with Bitmasks + Backtracking
 * Introduction to Dynamic Programming (Recursive)
 * Introduction to Dynamic Programming (Iterative)
 * Geometry
