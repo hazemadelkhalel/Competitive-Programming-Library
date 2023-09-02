@@ -6,18 +6,17 @@ Target: be able to solve CF-div2 ABC(D)
 ### Content
 * Graph representation - DFS
 * Shortest Path (0-1 BFS, Dijkstra) 
-* Floyd-Warshall (All-pairs shortest paths) - Bellman
-* DSU - MST (Kruskal) 
 * Number Theory (Factorization)
 * Combinatorics
-* Binary Indexed Tree (BIT)
-* Sparse Table
-* Divide and Conquer
 * Complete search with Bitmasks + Backtracking
 * Introduction to Dynamic Programming (Recursive)
 * Introduction to Dynamic Programming (Iterative)
+* DSU - MST (Kruskal) 
+* Binary Indexed Tree (BIT) + Sparse Table
 * Geometry
 * Probability
+* Floyd-Warshall (All-pairs shortest paths) - Bellman
+* Divide and Conquer
 
 ## Timeline
 To use this plan:
