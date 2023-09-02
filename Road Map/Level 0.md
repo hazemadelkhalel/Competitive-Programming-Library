@@ -12,7 +12,7 @@ Target: be able to solve CF-div2 A(B)
 * Function - Built-In Functions
 * Complexity Analysis
 * STLs I (Vector, Pairs, Deque, Queue, Stack)
-* STLs II (Set, Map)
+* STLs II (Set, Map, Priority queue)
 
 ## Timeline
 To use this plan:
