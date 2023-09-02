@@ -10,7 +10,6 @@ Target: be able to solve CF-div2 A(B)
 * Loops
 * Arrays and Strings
 * Function - Built-In Functions
-* Recursion
 * Complexity Analysis
 * STLs I (Vector, Pairs, Deque, Queue, Stack)
 * STLs II (Set, Map)
