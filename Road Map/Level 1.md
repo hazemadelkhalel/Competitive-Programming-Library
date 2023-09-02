@@ -20,6 +20,7 @@ Target: be able to solve CF-div2 AB(C)
 * Basic counting
   - nCr & nPr
   - Product & Sum Rule
+* Basic Geometry
 
 ## Timeline
 To use this plan:
