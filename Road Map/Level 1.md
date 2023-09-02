@@ -21,7 +21,7 @@ Target: be able to solve CF-div2 AB(C)
   - nCr & nPr
   - Product & Sum Rule
 * Basic Geometry
-* Basic Probabilty
+* Basic Probability
 
 ## Timeline
 To use this plan:
