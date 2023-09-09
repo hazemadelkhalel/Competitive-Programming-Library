@@ -9,7 +9,7 @@ Target: be able to solve CF-div2 AB(C)
 * Brute Force + Constructive algorithms + Greedy
 * Prefix-Suffix + Sliding Window
 * Two Pointers + Binary Search
-* Basics Bitmasks
+* Basics Bitmasks and complete search
 * Number Theory
   - Check Prime
   - Sieve Algorithm
