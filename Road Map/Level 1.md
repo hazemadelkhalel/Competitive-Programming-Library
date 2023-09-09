@@ -4,10 +4,10 @@ Duration: 25 rokba days.
 Target: be able to solve CF-div2 AB(C)
 
 ### Content
-* Brute Force
-* Constructive algorithms + Greedy
+* STLs I (Vector, Pairs, Deque, Queue, Stack)
+* STLs II (Set, Map, Priority queue)
+* Brute Force + Constructive algorithms + Greedy
 * Prefix-Suffix + Sliding Window
-* Sorting
 * Two Pointers + Binary Search
 * Basics Bitmasks
 * Number Theory
