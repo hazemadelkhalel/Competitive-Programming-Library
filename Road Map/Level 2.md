@@ -8,7 +8,7 @@ Target: be able to solve CF-div2 ABC(D)
 * Shortest Path (0-1 BFS, Dijkstra) 
 * Number Theory (Factorization)
 * Combinatorics
-* Complete search with Bitmasks + Backtracking
+* Backtracking
 * Introduction to Dynamic Programming (Recursive)
 * Introduction to Dynamic Programming (Iterative)
 * DSU - MST (Kruskal) 
