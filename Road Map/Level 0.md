@@ -11,9 +11,9 @@ Target: be able to solve CF-div2 A(B)
 * Arrays and Strings
 * Function - Built-In Functions
 * Complexity Analysis
+* Constructive Algorithms + Greedy
 * STLs I (Vector, Pairs, Deque, Queue, Stack)
 * STLs II (Set, Map, Priority queue)
-* Constructive Algorithms + Greedy
 
 ## Timeline
 To use this plan:
